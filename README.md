@@ -67,7 +67,7 @@ python main.py
 | ⬇️ Arrow Down | Bergerak ke bawah |
 | ⬅️ Arrow Left | Bergerak ke kiri |
 | ➡️ Arrow Right | Bergerak ke kanan |
-| `ESC` | Keluar dari game |
+| `Space` | Memulai game |
 
 ## 🎯 Tujuan Game
 
